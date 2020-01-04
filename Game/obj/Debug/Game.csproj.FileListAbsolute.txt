@@ -1,0 +1,22 @@
+C:\Users\Кирилл\Desktop\Лабы по исрппс\6 лаба(MVC)\Game\bin\Debug\Game.exe.config
+C:\Users\Кирилл\Desktop\Лабы по исрппс\6 лаба(MVC)\Game\bin\Debug\Game.exe
+C:\Users\Кирилл\Desktop\Лабы по исрппс\6 лаба(MVC)\Game\bin\Debug\Game.pdb
+C:\Users\Кирилл\Desktop\Лабы по исрппс\6 лаба(MVC)\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Лабы по исрппс\6 лаба(MVC)\Game\obj\Debug\Game.main.resources
+C:\Users\Кирилл\Desktop\Лабы по исрппс\6 лаба(MVC)\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Лабы по исрппс\6 лаба(MVC)\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Лабы по исрппс\6 лаба(MVC)\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Лабы по исрппс\6 лаба(MVC)\Game\obj\Debug\Game.exe
+C:\Users\Кирилл\Desktop\Лабы по исрппс\6 лаба(MVC)\Game\obj\Debug\Game.pdb
+C:\Users\Кирилл\Desktop\Лабы по исрппс\6 лаба(MVC)\Game\obj\Debug\Game.FirstLevel.resources
+C:\Users\Кирилл\Desktop\6 лаба(MVC)\Game\bin\Debug\Game.exe.config
+C:\Users\Кирилл\Desktop\6 лаба(MVC)\Game\bin\Debug\Game.exe
+C:\Users\Кирилл\Desktop\6 лаба(MVC)\Game\bin\Debug\Game.pdb
+C:\Users\Кирилл\Desktop\6 лаба(MVC)\Game\obj\Debug\Game.FirstLevel.resources
+C:\Users\Кирилл\Desktop\6 лаба(MVC)\Game\obj\Debug\Game.main.resources
+C:\Users\Кирилл\Desktop\6 лаба(MVC)\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\6 лаба(MVC)\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\6 лаба(MVC)\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\6 лаба(MVC)\Game\obj\Debug\Game.exe
+C:\Users\Кирилл\Desktop\6 лаба(MVC)\Game\obj\Debug\Game.pdb
+C:\Users\Кирилл\Desktop\6 лаба(MVC)\Game\obj\Debug\Game.csprojAssemblyReference.cache
